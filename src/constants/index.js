@@ -1,0 +1,1 @@
+export * as ACTION_TYPE from './actionTypes'
